@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FD6130</color>
+    <color name="colorPrimaryDark">#DB390A</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGreenKu">#3F51B5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#E2E2E2</color>
+    <color name="colorBtCancel">#CA2323</color>
+</resources>

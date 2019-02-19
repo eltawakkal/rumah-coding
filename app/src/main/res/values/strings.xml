@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Day One</string>
+
+    <array name="list_kota">
+        <item>Jakarta</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Bojonegoro</item>
+        <item>Kediri</item>
+        <item>Belitar</item>
+        <item>Batu</item>
+    </array>
+
+    <array name="list_merk">
+        <item>Samsung</item>
+        <item>Apple</item>
+        <item>Xiomi</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>Nokia</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+        <item>Microsoft</item>
+    </array>
+
+    <string name="save_button">Save</string>
+    <string name="nama_kota">Pilih Kota</string>
+</resources>
